@@ -2,8 +2,8 @@ Welcome to this repo where I document my the things that I learn to do with **Ng
 Feel free to use and/or modify the code you find in here, and if you have any suggestions please make a pull request, I'd love to see what you got.
 
 ## 1. Download and install **Nginx** 
-I'm on *Ubuntu 18.04*  
-### Install the prerequisites:
+I'm on *Ubuntu 18.04* so the installation process looks like this:
+Install the prerequisites:
 ```
 sudo apt install curl gnupg2 ca-certificates lsb-release ubuntu-keyring
 ```
