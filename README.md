@@ -49,3 +49,9 @@ sudo apt update
 sudo apt install nginx
 ```
 for a complete guide on how to install in on your OS, you can check out the docs : [Installing nginx](https://nginx.org/en/docs/install.html)
+
+## 2. Start **Nginx**
+my os uses `init.d` instead of `systemd`, so in order to start *Nginx* I run the following command:
+```
+sudo service nginx start
+```
